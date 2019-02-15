@@ -3,5 +3,5 @@ React Native Proof Of Concept
 
 
 ```
-npm start
+react-native run-android
 ```
